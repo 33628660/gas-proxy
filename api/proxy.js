@@ -9,4 +9,3 @@ export default async (req) => {
     headers: { 'Access-Control-Allow-Origin': '*' }
   });
 };
-
